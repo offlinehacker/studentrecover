@@ -17,8 +17,6 @@ setup(
     long_description=read('README.rst'),
     classifiers=[
         "Programming Language :: Python",
-        "Framework :: Pyramid",
-        "Topic :: Internet :: WWW/HTTP :: WSGI :: Application",
     ],
     keywords='web',
     author='Jaka Hudoklin',
